@@ -1,4 +1,9 @@
-<h1>Hi, I'm Gideon! <br/><a href="https://github.com/Giddywiddit">Aspiring Cloud/AI Engineer</a>, <a href="https//www.linkedin.com/in/gideon-odutayo-4486912b2/">Computer Science/Applied Mathematics</a>, <a href="https://www.instagram.com/gideon.o27/">Creative</a></h1>
+<h1>
+  Hi, I'm Gideon! <br/>
+  <a href="https://github.com/Giddywiddit">Aspiring Cloud/AI Engineer</a>, 
+  <a href="https://www.linkedin.com/in/gideon-odutayo-4486912b2/">Computer Science/Applied Mathematics</a>, 
+  <a href="https://www.instagram.com/gideon.o27/">Creative</a>
+</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
