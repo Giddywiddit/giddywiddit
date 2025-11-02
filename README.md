@@ -14,6 +14,11 @@
   </li>
   <br/>
   <li>
+    <a href="https://github.com/Giddywiddit/TimeFrequencyDomainAnalysis"><b>📊 Time and Frequency Domain Analysis (MATLAB/Octave)</b></a><br/>
+    <em>Signal processing project performing time-domain synthesis, FFT-based frequency analysis, and visualization of phase relationships between multiple sinusoids.</em>
+  </li>
+  <br/>
+  <li>
     <a href="https://github.com/Giddywiddit/LinkedListCycleDetection"><b>🔁 Linked List Cycle Detection (Java)</b></a><br/>
     <em>Demonstrates Floyd’s Tortoise and Hare algorithm for detecting loops in linked lists and finding the cycle’s starting node.</em>
   </li>
