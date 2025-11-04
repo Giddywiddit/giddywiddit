@@ -21,22 +21,22 @@
   <br/>
   <li>
     <a href="https://github.com/Giddywiddit/ElGamal-Java"><b>🔐 ElGamal Encryption (Java)</b></a><br/>
-    <em>Implements public-key encryption and decryption using modular exponentiation, random session keys, and Fermat’s Little Theorem for modular inverse calculation.</em>
+    <em>Implements public key encryption and decryption using modular exponentiation, random session keys and Fermat’s Little Theorem for modular inverse calculation.</em>
   </li>
   <br/>
   <li>
     <a href="https://github.com/Giddywiddit/LinkedListCycleDetection"><b>🔁 Linked List Cycle Detection (Java)</b></a><br/>
-    <em>Applies Floyd’s Tortoise and Hare algorithm to detect and locate cycles in linked lists efficiently, demonstrating mastery of pointer manipulation and algorithmic logic.</em>
+    <em>Applies Floyd’s Tortoise and Hare algorithm to detect and locate cycles in linked lists efficiently demonstrating mastery of pointer manipulation and algorithmic logic.</em>
   </li>
   <br/>
   <li>
     <a href="https://github.com/Giddywiddit/TimeFrequencyDomainAnalysis"><b>📊 Time and Frequency Domain Analysis (MATLAB/Octave)</b></a><br/>
-    <em>Performs time-domain signal synthesis and FFT-based frequency-domain visualization to demonstrate spectral relationships and harmonic behavior of multi-tone signals.</em>
+    <em>Performs time domain signal synthesis and FFT-based frequency domain visualization to demonstrate spectral relationships and harmonic behavior of multi-tone signals.</em>
   </li>
   <br/>
   <li>
     <a href="https://github.com/Giddywiddit/DirectionStackNavigator"><b>🧭 Direction Stack Navigator (Java)</b></a><br/>
-    <em>Custom stack data structure that records travel directions, checks for palindrome navigation patterns, and generates reverse routes to simulate returning to a starting point.</em>
+    <em>Custom stack data structure that records travel directions, checks for palindrome navigation patterns and generates reverse routes to simulate returning to a starting point.</em>
   </li>
 </ul>
 
