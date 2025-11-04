@@ -1,11 +1,17 @@
 <h1>
-  Hi, I'm Gideon! <br/>
-  <a href="https://github.com/Giddywiddit">Aspiring Cloud/AI Engineer</a>, 
-  <a href="https://www.linkedin.com/in/gideon-odutayo-4486912b2/">Computer Science/Applied Mathematics</a>, 
-  <a href="https://www.instagram.com/gideon.o27/">Creative</a>
+  Hi, I'm Gideon! 👋🏾 <br/>
+  <a href="https://github.com/Giddywiddit">Aspiring Cloud & AI Engineer</a> | 
+  <a href="https://www.linkedin.com/in/gideon-odutayo-4486912b2/">Computer Science & Applied Mathematics</a> | 
+  <a href="https://www.instagram.com/gideon.o27/">Creative Technologist</a>
 </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<p>
+  I'm passionate about combining <b>Artificial Intelligence</b>, <b>Cloud Infrastructure</b>, and <b>Digital Signal Processing</b>
+  to build efficient, data-driven systems. My projects explore topics from encryption and computational mathematics 
+  to AI-powered signal classification and algorithmic problem solving.
+</p>
+
+<h2>💡 Technical Projects:</h2>
 
 <ul>
   <li>
@@ -34,7 +40,32 @@
   </li>
 </ul>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>📘 Currently Learning:</h2>
+
+<ul>
+  <li>☁️ Cloud Computing Fundamentals (AWS, GCP, Azure)</li>
+  <li>🧠 Deep Learning Architectures (CNNs, RNNs, Transformers)</li>
+  <li>🧮 Advanced Number Theory & Cryptography</li>
+  <li>🔗 Computer Networks & Distributed Systems</li>
+  <li>⚙️ Operations Research & Optimization Algorithms</li>
+  <li>🤖 <a href="https://course.elementsofai.com/en-ie/2"><b>Elements of AI (University of Helsinki)</b></a></li>
+</ul>
+
+<h2>🚀 Upcoming Projects:</h2>
+
+<ul>
+  <li>
+    <b>🌩️ AI Signal Recognition API (Python + Flask + AWS)</b> — A cloud deployable API that performs FFT analysis and classifies incoming audio/signal data in real time using pre trained ML models.
+  </li>
+    <li>
+    <b>⚽ Player Performance Tracker (Python + Streamlit)</b> — Interactive dashboard that analyses football player stats using scraped match data, visualizing metrics like goals/assists and passing accuracy with dynamic charts.
+  </li>
+  <li>
+    <b>🎨 Color Palette Extractor for Outfits (Python + OpenCV)</b> — Computer vision tool that identifies prominant colours in outfit pictures and suggests visually matching colour combinations for outfit design and styling.
+  </li>
+</ul>
+
+<h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="Gideon Odutayo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="Gideon Odutayo | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
@@ -44,17 +75,3 @@
 [gmail]: mailto:gideonodutayo08@gmail.com
 [instagram]: https://www.instagram.com/gideon.o27/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
