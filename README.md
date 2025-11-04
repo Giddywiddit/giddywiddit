@@ -9,23 +9,28 @@
 
 <ul>
   <li>
-    <a href="https://github.com/Giddywiddit/ElGamal-Java"><b>🔐 ElGamal Encryption (Java)</b></a><br/>
-    <em>Implementation of ElGamal encryption and decryption using modular exponentiation, random key generation, and Fermat’s theorem for modular inverse.</em>
+    <a href="https://github.com/Giddywiddit/SignalClassifierFFTML"><b>🎧 Signal Classifier using FFT & Machine Learning (Python)</b></a><br/>
+    <em>Combines Digital Signal Processing and AI to classify signals using FFT-based frequency analysis and machine learning models (SVM/Random Forest). Includes visualization of spectra and model results.</em>
   </li>
   <br/>
   <li>
-    <a href="https://github.com/Giddywiddit/TimeFrequencyDomainAnalysis"><b>📊 Time and Frequency Domain Analysis (MATLAB/Octave)</b></a><br/>
-    <em>Signal processing project performing time-domain synthesis, FFT-based frequency analysis, and visualization of phase relationships between multiple sinusoids.</em>
+    <a href="https://github.com/Giddywiddit/ElGamal-Java"><b>🔐 ElGamal Encryption (Java)</b></a><br/>
+    <em>Implements public-key encryption and decryption using modular exponentiation, random session keys, and Fermat’s Little Theorem for modular inverse calculation.</em>
   </li>
   <br/>
   <li>
     <a href="https://github.com/Giddywiddit/LinkedListCycleDetection"><b>🔁 Linked List Cycle Detection (Java)</b></a><br/>
-    <em>Demonstrates Floyd’s Tortoise and Hare algorithm for detecting loops in linked lists and finding the cycle’s starting node.</em>
+    <em>Applies Floyd’s Tortoise and Hare algorithm to detect and locate cycles in linked lists efficiently, demonstrating mastery of pointer manipulation and algorithmic logic.</em>
+  </li>
+  <br/>
+  <li>
+    <a href="https://github.com/Giddywiddit/TimeFrequencyDomainAnalysis"><b>📊 Time and Frequency Domain Analysis (MATLAB/Octave)</b></a><br/>
+    <em>Performs time-domain signal synthesis and FFT-based frequency-domain visualization to demonstrate spectral relationships and harmonic behavior of multi-tone signals.</em>
   </li>
   <br/>
   <li>
     <a href="https://github.com/Giddywiddit/DirectionStackNavigator"><b>🧭 Direction Stack Navigator (Java)</b></a><br/>
-    <em>Custom stack implementation that checks if a sequence of movement directions forms a palindrome and generates the reversed route back home.</em>
+    <em>Custom stack data structure that records travel directions, checks for palindrome navigation patterns, and generates reverse routes to simulate returning to a starting point.</em>
   </li>
 </ul>
 
