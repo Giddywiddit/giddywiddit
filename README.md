@@ -40,7 +40,7 @@
   </li>
 </ul>
 
-<h2>📘 Currently Learning:</h2>
+<h2>📚 Currently Learning:</h2>
 
 <ul>
   <li>☁️ Cloud Computing Fundamentals (AWS, GCP, Azure)</li>
@@ -65,7 +65,7 @@
   </li>
 </ul>
 
-<h2>🤳 Connect with me:</h2>
+<h2>🤳🏾 Connect with me:</h2>
 
 [<img align="left" alt="Gideon Odutayo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="Gideon Odutayo | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
