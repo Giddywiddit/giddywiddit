@@ -5,10 +5,8 @@
   <a href="https://www.instagram.com/gideon.o27/">Creative Technologist</a>
 </h1>
 
-<p>
-  I'm passionate about combining <b>Artificial Intelligence</b>, <b>Cloud Infrastructure</b>, and <b>Digital Signal Processing</b>
-  to build efficient, data-driven systems. My projects explore topics from encryption and computational mathematics 
-  to AI-powered signal classification and algorithmic problem solving.
+<p> 
+I'm a <b>Computer Science and Applied Mathematics</b> student passionate about applying <b>Artificial Intelligence</b> to develop smart, efficient, and scalable technologies. My work and studies explore the intersection of <b>AI</b>, <b>Cloud Infrastructure</b>, <b>Data Driven Systems</b> and <b>Telecommunications</b> with a focus on leveraging intelligent algorithms to optimize performance, automate processes and solve real-world problems.
 </p>
 
 <h2>💡 Technical Projects:</h2>
