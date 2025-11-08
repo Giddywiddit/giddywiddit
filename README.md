@@ -6,7 +6,7 @@
 </h1>
 
 <p> 
-I'm a <b>Computer Science and Applied Mathematics</b> student passionate about applying <b>Artificial Intelligence</b> to develop smart, efficient, and scalable technologies. My work and studies explore the intersection of <b>AI</b>, <b>Software Engineering</b>, <b>Data Driven Systems</b> and <b>Cloud Infrastructure</b> with a focus on leveraging intelligent algorithms to optimize performance, automate processes and solve real-world problems.
+I'm a <b>Computer Science and Applied Mathematics</b> student passionate about applying <b>Artificial Intelligence</b> to develop smart, efficient, and scalable technologies. My work and studies explore the intersection of <b>Software Engineering</b>, <b>AI</b>, <b>Data Driven Systems</b> and <b>Cloud Infrastructure</b> with a focus on leveraging intelligent algorithms to optimize performance, automate processes and solve real-world problems.
 </p>
 
 <h2>💡 Technical Projects:</h2>
