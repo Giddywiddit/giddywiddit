@@ -52,9 +52,6 @@ I'm a <b>Computer Science and Applied Mathematics</b> student passionate about a
 <h2>🚀 Upcoming Projects:</h2>
 
 <ul>
-  <li>
-    <b>🌩️ AI Signal Recognition API (Python + Flask + AWS)</b> — A cloud deployable API that performs FFT analysis and classifies incoming audio/signal data in real time using pre trained ML models.
-  </li>
     <li>
     <b>⚽ Player Performance Tracker (Python + Streamlit)</b> — Interactive dashboard that analyses football player stats using scraped match data, visualizing metrics like goals/assists and passing accuracy with dynamic charts.
   </li>
