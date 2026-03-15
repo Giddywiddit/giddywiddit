@@ -1,8 +1,8 @@
 <h1>
   Hi, I'm Gideon! 👋🏾 <br/>
-  <a href="https://github.com/Giddywiddit">Software Developer & Cloud/AI Engineer</a> | 
+  <a href="https://github.com/Giddywiddit">Software Engineer & Cloud/Artificial Intelligence Enthusiast</a> | 
   <a href="https://www.linkedin.com/in/gideon-odutayo-4486912b2/">Computer Science & Applied Mathematics</a> | 
-  <a href="https://www.instagram.com/gideon.o27/">Creative Technologist</a>
+  <a href="https://www.instagram.com/gideon.o27/">Creative </a>
 </h1>
 
 <p> 
@@ -12,6 +12,11 @@ I'm a <b>Computer Science and Applied Mathematics</b> student passionate about a
 <h2>💡 Technical Projects:</h2>
 
 <ul>
+  <li>
+    <a href="https://github.com/Giddywiddit/Payment-Retry-System"><b>💳 Event-Driven Payment Retry System (Python + FastAPI)</b></a><br/>
+    <em>Backend service that processes payment events and automatically retries failed transactions using stepped delays (10 min → 1 hr → 24 hr). Implements idempotent request handling, async Celery workers, dead-letter queuing, and a full RESTful API. Stack: FastAPI, PostgreSQL, Redis, Celery and Docker.</em>
+  </li>
+  <br/>
   <li>
     <a href="https://github.com/Giddywiddit/SignalClassifierFFTML"><b>🎧 Signal Classifier using FFT & Machine Learning (Python)</b></a><br/>
     <em>Combines Digital Signal Processing and AI to classify signals using FFT-based frequency analysis and machine learning models (SVM/Random Forest). Includes visualization of spectra and model results.</em>
