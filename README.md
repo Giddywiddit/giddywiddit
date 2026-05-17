@@ -68,9 +68,7 @@ I'm a <b>Computer Science and Applied Mathematics</b> student passionate about a
 
 [<img align="left" alt="Gideon Odutayo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="Gideon Odutayo | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Gideon Odutayo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/gideon-odutayo-4486912b2/
 [gmail]: mailto:gideonodutayo08@gmail.com
-[instagram]: https://www.instagram.com/gideon.o27/
 
