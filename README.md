@@ -56,12 +56,7 @@ I'm a <b>Computer Science and Applied Mathematics</b> student passionate about a
 <h2>🚀 Upcoming Projects:</h2>
 
 <ul>
-    <li>
-    <b>⚽ Player Performance Tracker (Python + Streamlit)</b> — Interactive dashboard that analyses football player stats using scraped match data, visualizing metrics like goals/assists and passing accuracy with dynamic charts.
-  </li>
-  <li>
-    <b>🎨 Color Palette Extractor for Outfits (Python + OpenCV)</b> — Computer vision tool that identifies prominant colours in outfit pictures and suggests visually matching colour combinations for outfit design and styling.
-  </li>
+  
 </ul>
 
 <h2>🤳🏾 Connect with me:</h2>
