@@ -42,19 +42,6 @@ I'm a <b>Computer Science and Applied Mathematics</b> student passionate about a
   </li>
 </ul>
 
-<h2>📚 Currently Learning:</h2>
-
-<ul>
-  <li>☁️ Cloud Computing Fundamentals (AWS, GCP, Azure)</li>
-  <li>🧠 Deep Learning Architectures (CNNs, RNNs, Transformers)</li>
-  <li>🧮 Advanced Number Theory & Cryptography</li>
-  <li>🔗 Computer Networks & Distributed Systems</li>
-  <li>⚙️ Operations Research & Optimization Algorithms</li>
-  <li>🤖 <a href="https://course.elementsofai.com/en-ie/2"><b>Elements of AI (University of Helsinki)</b></a></li>
-</ul>
-
-<h2>🚀 Upcoming Projects:</h2>
-
 <ul>
   
 </ul>
